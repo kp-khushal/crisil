@@ -3,7 +3,7 @@
 # Features
 
 
-- credit rating calculation based in Mortgage Securities
+- Credit rating calculation based in Mortgage Securities
 - API with Django REST Framework
 - MYSQL Database for POST, GET, PUT data
 - Validation for Mortgage Data from User
